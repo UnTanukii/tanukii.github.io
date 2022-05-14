@@ -10,7 +10,6 @@ const config = {
     ],
 
     PROJECTS: [
-        { id: "pewpew", image: "assets/img/projects/pewpew.webp", link: "https://bit.ly/3suEYNW", name: "Pew Pew, a bot to <s>$#%$€*#&@</s> (soon) !" },
         { id: "elixir", image: "assets/img/projects/elixir.webp", link: "https://discord.gg/q3B4bkM", name: "Elixir Bot, a bot to get gif or normal anime pictures !" },
         { id: "rfs-store", image: "assets/img/projects/rfs.png", link: "https://discord.gg/2uQbUDHReE", name: "RFS Store, a FiveM and Discord Bot Store." },
     ],
