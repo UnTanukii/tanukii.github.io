@@ -3,7 +3,7 @@ const config = {
     USERNAME: "Tanukii#7115",
     PICTURE: "assets/img/pp.jpg",
 
-    DESCRIPTION: "Hi I'm <b>Tanukii</b> ! I am a french and young discord bot developper. I code in <u>JavaScript</u> and I use the library <u>discord.js</u> for my bots.",
+    DESCRIPTION: "Hi I'm <b>Tanukii</b> ! I am a french and young discord bot developper. I use the library <u>discord.js</u> for my bots.",
 
     BADGES: [
         { id: "HypeSquad Bravery", image: "assets/img/bravery.webp" }
