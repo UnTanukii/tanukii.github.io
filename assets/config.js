@@ -11,7 +11,7 @@ const config = {
 
     PROJECTS: [
         { id: "rfs-store", image: "assets/img/projects/rfs.png", link: "https://discord.gg/2uQbUDHReE", name: "RFS Store, a FiveM and Discord Bot Store." },
-        { id: "elixir", image: "assets/img/projects/elixir.webp", link: "https://dcg.gg/elixir-bot", name: "Elixir Bot, a bot to get gif or normal anime pictures !" },
+        { id: "elixir", image: "assets/img/projects/elixir.webp", link: "https://dsc.gg/elixir-bot", name: "Elixir Bot, a bot to get gif or normal anime pictures !" },
     ],
 
     SOCIALS: [
