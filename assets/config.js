@@ -7,7 +7,8 @@ const config = {
     //Hi I'm <b>Tanukii</b> ! I am a french and young discord bot developper. I use the library <u>discord.js</u> for my bots.
 
     BADGES: [
-        { id: "HypeSquad Bravery", image: "assets/img/bravery.webp" }
+        { id: "HypeSquad Bravery", image: "assets/img/bravery.webp" },
+        { id: "Not The Real Developer Badge", image: "assets/img/developer.webp" }
     ],
 
     PROJECTS: [

@@ -22,7 +22,7 @@
             <img class="profile-picture" v-bind:src="profile_picture" alt="Profile Picture" />
             <p class="name">{{ username }}</p>
             <ul class="badges">
-                <li v-for="badge in badges"><img v-bind:src="badge.image" v-bind:alt="badge.id" /></li>
+                <li v-for="badge in badges"><img v-bind:src="badge.image" v-bind:alt="badge.id" v-bind:title="badge.id"/></li>
             </ul>
         </div>
         <div class="middle-part">
