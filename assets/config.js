@@ -3,7 +3,8 @@ const config = {
     USERNAME: "Tanukii#7115",
     PICTURE: "assets/img/pp.jpg",
 
-    DESCRIPTION: "Hi I'm <b>Tanukii</b> ! I am a french and young developper. <br>I develop in JavaScript with the library <u>discord.js</u> for discord bots, and I develop in Lua with the library <u>RageUI</u> and with the framework <u>ESX</u> for FiveM Scripts",
+    DESCRIPTION: "Hi I'm <b>Tanukii</b> ! I am a french and young developper. <br>I develop in JavaScript with the library <u>discord.js</u> for discord bots, and in Lua with the library <u>RageUI</u> for FiveM Scripts.",
+    //"Hi I'm <b>Tanukii</b> ! I am a french and young developper. <br>I develop in JavaScript with the library <u>discord.js</u> for discord bots, and I develop in Lua with the library <u>RageUI</u> and with the framework <u>ESX</u> for FiveM Scripts."
     //Hi I'm <b>Tanukii</b> ! I am a french and young discord bot developper. I use the library <u>discord.js</u> for my bots.
 
     BADGES: [
