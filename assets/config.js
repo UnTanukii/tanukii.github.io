@@ -9,12 +9,14 @@ const config = {
 
     BADGES: [
         { id: "HypeSquad Bravery", image: "assets/img/bravery.webp" },
-        { id: "Not The Real Developer Badge", image: "assets/img/developer.webp" }
+        { id: "Active Developer", image: "assets/img/active-developer.png" },
+        { id: "Not The Real Developer Badge", image: "assets/img/developer.webp" },
     ],
 
     PROJECTS: [
         { id: "rfs-store", image: "assets/img/projects/rfs.png", link: "https://discord.gg/2uQbUDHReE", name: "RFS Store, a FiveM and Discord Bot Store." },
         { id: "elixir", image: "assets/img/projects/elixir.webp", link: "https://dsc.gg/elixir-bot", name: "Elixir Bot, a bot to get gif or normal anime pictures !" },
+        { id: "orna", image: "assets/img/projects/orna.jpg", link: "https://discord.gg/yquy94Z", name: "Orna's Place, a French community discord server about gaming." },
     ],
 
     SOCIALS: [
